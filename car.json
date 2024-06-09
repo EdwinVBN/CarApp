@@ -5,7 +5,7 @@
       "merk": "Toyota",
       "model": "Corolla",
       "bouwjaar": 2020,
-      "image": "https://toyota.scene7.com/is/image/toyota/corolla",
+      "image": "https://images.ctfassets.net/tmk3oi6u1mmf/700QDpz0vzSiJIjHvTvjD8/dc21660caf57927792030357c1a1b2be/ATX_M3198_F1.jpg",
       "beschrijving": "The Toyota Corolla is a compact sedan known for its reliability and fuel efficiency."
     },
     {
@@ -13,7 +13,7 @@
       "merk": "Ford",
       "model": "Mustang",
       "bouwjaar": 2019,
-      "image": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/performance/mustang",
+      "image": "data:image/jpeg;base64,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",
       "beschrijving": "The Ford Mustang is a classic American muscle car known for its powerful engine and stylish design."
     },
     {
@@ -21,7 +21,7 @@
       "merk": "Honda",
       "model": "Civic",
       "bouwjaar": 2021,
-      "image": "https://www.honda.com/content/dam/honda",
+      "image": "https://hondanews.com/releases/2021-honda-civic-sedan",
       "beschrijving": "The Honda Civic is a compact car that offers a smooth ride, modern features, and great fuel efficiency."
     },
     {
@@ -29,7 +29,7 @@
       "merk": "Chevrolet",
       "model": "Camaro",
       "bouwjaar": 2018,
-      "image": "https://www.chevrolet.com/content/dam/chevrolet",
+      "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2018/performance/camaro",
       "beschrijving": "The Chevrolet Camaro is a high-performance sports car with a bold design and powerful engine options."
     },
     {
@@ -37,7 +37,7 @@
       "merk": "Tesla",
       "model": "Model 3",
       "bouwjaar": 2022,
-      "image": "https://www.tesla.com/content/dam/tesla",
+      "image": "https://www.tesla.com/sites/default/files/modelsx-new/social/model-3-hero-social.jpg",
       "beschrijving": "The Tesla Model 3 is an all-electric sedan known for its impressive range, advanced technology, and quick acceleration."
     },
     {
@@ -45,7 +45,7 @@
       "merk": "BMW",
       "model": "3 Series",
       "bouwjaar": 2019,
-      "image": "https://www.bmw.com/content/dam/bmw",
+      "image": "https://www.bmwusa.com/content/dam/bmwusa/3-series/my2019/3-series-sedan-overview.jpg",
       "beschrijving": "The BMW 3 Series is a luxury sedan that offers a combination of performance, comfort, and advanced features."
     },
     {
@@ -53,7 +53,7 @@
       "merk": "Audi",
       "model": "A4",
       "bouwjaar": 2020,
-      "image": "https://www.audi.com/content/dam/audi",
+      "image": "https://www.audiusa.com/content/dam/audiusa/Models/A4/my2020/a4-sedan/2020-a4-sedan-exterior.jpg",
       "beschrijving": "The Audi A4 is a premium sedan known for its elegant design, advanced technology, and smooth ride."
     },
     {
@@ -61,7 +61,7 @@
       "merk": "Mercedes-Benz",
       "model": "C-Class",
       "bouwjaar": 2021,
-      "image": "https://www.mercedes-benz.com/content/dam/mercedes",
+      "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my21/c/sedan/class-page/2021-C-SEDAN-GALLERY-001-DR.jpg",
       "beschrijving": "The Mercedes-Benz C-Class is a luxury sedan that offers a refined interior, advanced safety features, and powerful performance."
     },
     {
@@ -69,7 +69,7 @@
       "merk": "Volkswagen",
       "model": "Golf",
       "bouwjaar": 2018,
-      "image": "https://www.volkswagen.com/content/dam/volkswagen",
+      "image": "https://www.vw.com/content/dam/vwcom/brochures/2018/vw-my18-golf-family-brochure.pdf",
       "beschrijving": "The Volkswagen Golf is a versatile hatchback that offers a comfortable ride, practical interior, and efficient performance."
     },
     {
@@ -77,7 +77,7 @@
       "merk": "Nissan",
       "model": "Altima",
       "bouwjaar": 2020,
-      "image": "https://www.nissanusa.com/content/dam/nissan",
+      "image": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/altima/2020/2020-nissan-altima-exterior.jpg",
       "beschrijving": "The Nissan Altima is a midsize sedan that offers a spacious interior, modern features, and a comfortable ride."
     },
     {
@@ -85,7 +85,7 @@
       "merk": "Hyundai",
       "model": "Elantra",
       "bouwjaar": 2019,
-      "image": "https://www.hyundaiusa.com/content/dam/hyundai",
+      "image": "https://www.hyundaiusa.com/us/en/vehicles/elantra/2019/gallery",
       "beschrijving": "The Hyundai Elantra is a compact car that provides a smooth ride, efficient performance, and a stylish design."
     },
     {
@@ -93,7 +93,7 @@
       "merk": "Kia",
       "model": "Optima",
       "bouwjaar": 2021,
-      "image": "https://www.kia.com/content/dam/kia",
+      "image": "https://www.kia.com/us/en/optima",
       "beschrijving": "The Kia Optima is a midsize sedan known for its modern design, comfortable interior, and advanced safety features."
     },
     {
@@ -101,7 +101,7 @@
       "merk": "Mazda",
       "model": "Mazda3",
       "bouwjaar": 2020,
-      "image": "https://www.mazdausa.com/content/dam/mazda",
+      "image": "https://www.mazdausa.com/vehicles/mazda3-sedan",
       "beschrijving": "The Mazda3 is a compact car that offers sporty performance, stylish design, and a high-quality interior."
     },
     {
@@ -109,7 +109,7 @@
       "merk": "Subaru",
       "model": "Impreza",
       "bouwjaar": 2018,
-      "image": "https://www.subaru.com/content/dam/subaru",
+      "image": "https://www.subaru.com/vehicles/impreza/gallery.html",
       "beschrijving": "The Subaru Impreza is a compact car known for its all-wheel drive capability, safety features, and reliable performance."
     },
     {
@@ -117,7 +117,7 @@
       "merk": "Lexus",
       "model": "IS",
       "bouwjaar": 2019,
-      "image": "https://www.lexus.com/content/dam/lexus",
+      "image": "https://www.lexus.com/models/IS/gallery",
       "beschrijving": "The Lexus IS is a luxury sedan that combines stylish design, advanced technology, and refined performance."
     },
     {
@@ -125,7 +125,7 @@
       "merk": "Jaguar",
       "model": "XE",
       "bouwjaar": 2020,
-      "image": "https://www.jaguarusa.com/content/dam/jaguar",
+      "image": "https://www.jaguarusa.com/models/xe/gallery.html",
       "beschrijving": "The Jaguar XE is a luxury sedan known for its sporty performance, elegant design, and advanced features."
     },
     {
@@ -133,7 +133,7 @@
       "merk": "Porsche",
       "model": "911",
       "bouwjaar": 2021,
-      "image": "https://www.porsche.com/usa",
+      "image": "https://www.porsche.com/usa/models/911/911-gallery/",
       "beschrijving": "The Porsche 911 is a high-performance sports car that offers a thrilling driving experience, iconic design, and advanced engineering."
     },
     {
@@ -141,7 +141,7 @@
       "merk": "Volvo",
       "model": "S60",
       "bouwjaar": 2019,
-      "image": "https://www.volvocars.com/content/dam/volvo",
+      "image": "https://www.volvocars.com/us/cars/new-models/s60/",
       "beschrijving": "The Volvo S60 is a luxury sedan that provides a comfortable ride, advanced safety features, and a stylish design."
     },
     {
@@ -149,7 +149,7 @@
       "merk": "Acura",
       "model": "TLX",
       "bouwjaar": 2020,
-      "image": "https://www.acura.com/content/dam/acura",
+      "image": "https://www.acura.com/2020/TLX",
       "beschrijving": "The Acura TLX is a luxury sedan known for its performance, advanced technology, and refined interior."
     },
     {
@@ -157,7 +157,7 @@
       "merk": "Infiniti",
       "model": "Q50",
       "bouwjaar": 2021,
-      "image": "https://www.infinitiusa.com/content/dam/infiniti",
+      "image": "https://www.infinitiusa.com/vehicles/sedans/q50.html",
       "beschrijving": "The Infiniti Q50 is a luxury sedan that offers powerful performance, modern technology, and a premium interior."
     },
     {
@@ -165,7 +165,7 @@
       "merk": "Cadillac",
       "model": "CT5",
       "bouwjaar": 2020,
-      "image": "https://www.cadillac.com/content/dam/cadillac",
+      "image": "https://www.cadillac.com/sedans/ct5/gallery",
       "beschrijving": "The Cadillac CT5 is a luxury sedan known for its elegant design, advanced features, and smooth performance."
     },
     {
@@ -173,7 +173,7 @@
       "merk": "Alfa Romeo",
       "model": "Giulia",
       "bouwjaar": 2019,
-      "image": "https://www.alfaromeousa.com/content/dam/alfaromeo",
+      "image": "https://www.alfaromeousa.com/giulia/gallery",
       "beschrijving": "The Alfa Romeo Giulia is a luxury sedan that offers sporty performance, Italian design, and advanced technology."
     },
     {
@@ -181,8 +181,9 @@
       "merk": "Genesis",
       "model": "G70",
       "bouwjaar": 2021,
-      "image": "https://www.genesis.com/content/dam/genesis",
-      "beschrijving": "The Genesis G70 is a luxury sedan known for its performance, modern features, and elegant design."
+      "image": "https://www.genesis.com/us/en/genesis-g70.html",
+      "beschrijving": "The Genesis G70 is a luxury sedan known for its performance"
+
     },
     {
       "id": 24,
