@@ -1,0 +1,204 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "merk": "Toyota",
+      "model": "Corolla",
+      "bouwjaar": 2020,
+      "image": "https://toyota.scene7.com/is/image/toyota/corolla",
+      "beschrijving": "The Toyota Corolla is a compact sedan known for its reliability and fuel efficiency."
+    },
+    {
+      "id": 2,
+      "merk": "Ford",
+      "model": "Mustang",
+      "bouwjaar": 2019,
+      "image": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/performance/mustang",
+      "beschrijving": "The Ford Mustang is a classic American muscle car known for its powerful engine and stylish design."
+    },
+    {
+      "id": 3,
+      "merk": "Honda",
+      "model": "Civic",
+      "bouwjaar": 2021,
+      "image": "https://www.honda.com/content/dam/honda",
+      "beschrijving": "The Honda Civic is a compact car that offers a smooth ride, modern features, and great fuel efficiency."
+    },
+    {
+      "id": 4,
+      "merk": "Chevrolet",
+      "model": "Camaro",
+      "bouwjaar": 2018,
+      "image": "https://www.chevrolet.com/content/dam/chevrolet",
+      "beschrijving": "The Chevrolet Camaro is a high-performance sports car with a bold design and powerful engine options."
+    },
+    {
+      "id": 5,
+      "merk": "Tesla",
+      "model": "Model 3",
+      "bouwjaar": 2022,
+      "image": "https://www.tesla.com/content/dam/tesla",
+      "beschrijving": "The Tesla Model 3 is an all-electric sedan known for its impressive range, advanced technology, and quick acceleration."
+    },
+    {
+      "id": 6,
+      "merk": "BMW",
+      "model": "3 Series",
+      "bouwjaar": 2019,
+      "image": "https://www.bmw.com/content/dam/bmw",
+      "beschrijving": "The BMW 3 Series is a luxury sedan that offers a combination of performance, comfort, and advanced features."
+    },
+    {
+      "id": 7,
+      "merk": "Audi",
+      "model": "A4",
+      "bouwjaar": 2020,
+      "image": "https://www.audi.com/content/dam/audi",
+      "beschrijving": "The Audi A4 is a premium sedan known for its elegant design, advanced technology, and smooth ride."
+    },
+    {
+      "id": 8,
+      "merk": "Mercedes-Benz",
+      "model": "C-Class",
+      "bouwjaar": 2021,
+      "image": "https://www.mercedes-benz.com/content/dam/mercedes",
+      "beschrijving": "The Mercedes-Benz C-Class is a luxury sedan that offers a refined interior, advanced safety features, and powerful performance."
+    },
+    {
+      "id": 9,
+      "merk": "Volkswagen",
+      "model": "Golf",
+      "bouwjaar": 2018,
+      "image": "https://www.volkswagen.com/content/dam/volkswagen",
+      "beschrijving": "The Volkswagen Golf is a versatile hatchback that offers a comfortable ride, practical interior, and efficient performance."
+    },
+    {
+      "id": 10,
+      "merk": "Nissan",
+      "model": "Altima",
+      "bouwjaar": 2020,
+      "image": "https://www.nissanusa.com/content/dam/nissan",
+      "beschrijving": "The Nissan Altima is a midsize sedan that offers a spacious interior, modern features, and a comfortable ride."
+    },
+    {
+      "id": 11,
+      "merk": "Hyundai",
+      "model": "Elantra",
+      "bouwjaar": 2019,
+      "image": "https://www.hyundaiusa.com/content/dam/hyundai",
+      "beschrijving": "The Hyundai Elantra is a compact car that provides a smooth ride, efficient performance, and a stylish design."
+    },
+    {
+      "id": 12,
+      "merk": "Kia",
+      "model": "Optima",
+      "bouwjaar": 2021,
+      "image": "https://www.kia.com/content/dam/kia",
+      "beschrijving": "The Kia Optima is a midsize sedan known for its modern design, comfortable interior, and advanced safety features."
+    },
+    {
+      "id": 13,
+      "merk": "Mazda",
+      "model": "Mazda3",
+      "bouwjaar": 2020,
+      "image": "https://www.mazdausa.com/content/dam/mazda",
+      "beschrijving": "The Mazda3 is a compact car that offers sporty performance, stylish design, and a high-quality interior."
+    },
+    {
+      "id": 14,
+      "merk": "Subaru",
+      "model": "Impreza",
+      "bouwjaar": 2018,
+      "image": "https://www.subaru.com/content/dam/subaru",
+      "beschrijving": "The Subaru Impreza is a compact car known for its all-wheel drive capability, safety features, and reliable performance."
+    },
+    {
+      "id": 15,
+      "merk": "Lexus",
+      "model": "IS",
+      "bouwjaar": 2019,
+      "image": "https://www.lexus.com/content/dam/lexus",
+      "beschrijving": "The Lexus IS is a luxury sedan that combines stylish design, advanced technology, and refined performance."
+    },
+    {
+      "id": 16,
+      "merk": "Jaguar",
+      "model": "XE",
+      "bouwjaar": 2020,
+      "image": "https://www.jaguarusa.com/content/dam/jaguar",
+      "beschrijving": "The Jaguar XE is a luxury sedan known for its sporty performance, elegant design, and advanced features."
+    },
+    {
+      "id": 17,
+      "merk": "Porsche",
+      "model": "911",
+      "bouwjaar": 2021,
+      "image": "https://www.porsche.com/usa",
+      "beschrijving": "The Porsche 911 is a high-performance sports car that offers a thrilling driving experience, iconic design, and advanced engineering."
+    },
+    {
+      "id": 18,
+      "merk": "Volvo",
+      "model": "S60",
+      "bouwjaar": 2019,
+      "image": "https://www.volvocars.com/content/dam/volvo",
+      "beschrijving": "The Volvo S60 is a luxury sedan that provides a comfortable ride, advanced safety features, and a stylish design."
+    },
+    {
+      "id": 19,
+      "merk": "Acura",
+      "model": "TLX",
+      "bouwjaar": 2020,
+      "image": "https://www.acura.com/content/dam/acura",
+      "beschrijving": "The Acura TLX is a luxury sedan known for its performance, advanced technology, and refined interior."
+    },
+    {
+      "id": 20,
+      "merk": "Infiniti",
+      "model": "Q50",
+      "bouwjaar": 2021,
+      "image": "https://www.infinitiusa.com/content/dam/infiniti",
+      "beschrijving": "The Infiniti Q50 is a luxury sedan that offers powerful performance, modern technology, and a premium interior."
+    },
+    {
+      "id": 21,
+      "merk": "Cadillac",
+      "model": "CT5",
+      "bouwjaar": 2020,
+      "image": "https://www.cadillac.com/content/dam/cadillac",
+      "beschrijving": "The Cadillac CT5 is a luxury sedan known for its elegant design, advanced features, and smooth performance."
+    },
+    {
+      "id": 22,
+      "merk": "Alfa Romeo",
+      "model": "Giulia",
+      "bouwjaar": 2019,
+      "image": "https://www.alfaromeousa.com/content/dam/alfaromeo",
+      "beschrijving": "The Alfa Romeo Giulia is a luxury sedan that offers sporty performance, Italian design, and advanced technology."
+    },
+    {
+      "id": 23,
+      "merk": "Genesis",
+      "model": "G70",
+      "bouwjaar": 2021,
+      "image": "https://www.genesis.com/content/dam/genesis",
+      "beschrijving": "The Genesis G70 is a luxury sedan known for its performance, modern features, and elegant design."
+    },
+    {
+      "id": 24,
+      "merk": "Maserati",
+      "model": "Ghibli",
+      "bouwjaar": 2020,
+      "image": "https://www.maserati.com/content/dam/maserati",
+      "beschrijving": "The Maserati Ghibli is a luxury sedan that combines Italian craftsmanship, powerful performance, and a stylish design."
+    },
+    {
+      "id": 25,
+      "merk": "Lincoln",
+      "model": "MKZ",
+      "bouwjaar": 2019,
+      "image": "https://www.lincoln.com/content/dam/lincoln",
+      "beschrijving": "The Lincoln MKZ is a luxury sedan that offers a comfortable ride, modern technology, and a refined interior."
+    }
+  ]
+}
