@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { SafeAreaView, StyleSheet, Text, TextInput, View, ScrollView, Pressable, Image, Alert, Button  } from 'react-native';
+import { SafeAreaView, StyleSheet, Text, TextInput, View, FlatList, Pressable, Image, Alert, Button  } from 'react-native';
 import { cars } from './car.json';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
@@ -23,17 +23,23 @@ function LoginScreen({ navigation }) {
   };
 
   return (
-    <View style={styles.container}>
+    <View style={styles.LoginScherm}>
       <TextInput
         value={username}
         onChangeText={(text) => setUsername(text)}
         placeholder="Username"
+        color='white'
+        textAlign='center'
+        placeholderTextColor={'white'}
       />
       <TextInput
         value={password}
         onChangeText={(text) => setPassword(text)}
         placeholder="Password"
         secureTextEntry={true}
+        color='white'
+        textAlign='center'
+        placeholderTextColor={'white'}
       />
       <Button title='Login' onPress={handleLogin} />
     </View>
@@ -80,25 +86,36 @@ function CarGalleryScreen({ navigation }) {
   const autoInfo = (auto) => {
     navigation.navigate('CarDetails', { auto });
   };
-  
+
+  const renderItem = ({ item }) => (
+    <Pressable onPress={() => autoInfo(item)}>
+      <Image source={{ uri: item.image }} style={styles.carImage} />
+    </Pressable>
+  );
+
   return (
     <SafeAreaView style={styles.container}>
-      <ScrollView style={styles.scrollview}>
-        <View style={styles.carContainer}>
-          {
-            cars.map((auto) => (
-              <Pressable key={auto.id} onPress={() => autoInfo(auto)}>
-                <Image source={{uri: auto.image}} style={styles.carImage} />
-              </Pressable>
-            ))
-          }
-        </View>
-      </ScrollView>
+      <FlatList
+        data={cars}
+        renderItem={renderItem}
+        keyExtractor={(item) => item.id.toString()}
+        contentContainerStyle={styles.carContainer}
+      />
     </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
+  LoginScherm: {
+    flex: 1,
+    backgroundColor: '#1A1A1A',
+    position: 'relative',
+    display: 'flex',
+    alignItems: 'center',
+    flexDirection: 'column',
+    gap: 75,
+    paddingTop: 200,
+  },
   container: {
     flex: 1,
     backgroundColor: '#1A1A1A',
@@ -125,20 +142,23 @@ const styles = StyleSheet.create({
     marginTop: 50,
   },
   carContainer: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    justifyContent: 'space-between',
     paddingHorizontal: 20,
+    justifyContent: 'space-between',
+  },
+  carItem: {
+    flex: 1,
+    margin: 10,
+    maxWidth: '45%', // Ensures the items don't take up more than half the screen width
   },
   carImage: {
     height: 150,
-    width: 150,
+    width: '100%', // Adjust to ensure full width of the item
     marginBottom: 25,
     borderRadius: 5,
     borderStyle: 'solid',
     borderWidth: 1,
     borderColor: '#FFFFFF',
-  },
+  }, 
   detialsContainer: {
     flex: 1,
     backgroundColor: '#1A1A1A',

@@ -21,7 +21,7 @@
       "merk": "Honda",
       "model": "Civic",
       "bouwjaar": 2021,
-      "image": "https://hondanews.com/releases/2021-honda-civic-sedan",
+      "image": "https://cdn.motor1.com/images/mgl/mMEQ8j/s3/2024-honda-civic-rs-jdm.jpg",
       "beschrijving": "The Honda Civic is a compact car that offers a smooth ride, modern features, and great fuel efficiency."
     },
     {
@@ -29,7 +29,7 @@
       "merk": "Chevrolet",
       "model": "Camaro",
       "bouwjaar": 2018,
-      "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2018/performance/camaro",
+      "image": "https://images.ctfassets.net/tmk3oi6u1mmf/6FRttzAOVDSR7yH3ieKQsO/87b66aa70c4c3594e69ef7d51b197f82/ATX_M67_F1.jpg?fm=webp&w=648",
       "beschrijving": "The Chevrolet Camaro is a high-performance sports car with a bold design and powerful engine options."
     },
     {
@@ -37,7 +37,7 @@
       "merk": "Tesla",
       "model": "Model 3",
       "bouwjaar": 2022,
-      "image": "https://www.tesla.com/sites/default/files/modelsx-new/social/model-3-hero-social.jpg",
+      "image": "https://static.mistergreen.nl/tesla-model-3-highland-5_intrinsic.jpeg?v=2023-10-23T15:13:58+02:00",
       "beschrijving": "The Tesla Model 3 is an all-electric sedan known for its impressive range, advanced technology, and quick acceleration."
     },
     {
@@ -45,7 +45,7 @@
       "merk": "BMW",
       "model": "3 Series",
       "bouwjaar": 2019,
-      "image": "https://www.bmwusa.com/content/dam/bmwusa/3-series/my2019/3-series-sedan-overview.jpg",
+      "image": "https://www.topgear.com/sites/default/files/2022/09/1-BMW-3-Series.jpg",
       "beschrijving": "The BMW 3 Series is a luxury sedan that offers a combination of performance, comfort, and advanced features."
     },
     {
@@ -53,7 +53,7 @@
       "merk": "Audi",
       "model": "A4",
       "bouwjaar": 2020,
-      "image": "https://www.audiusa.com/content/dam/audiusa/Models/A4/my2020/a4-sedan/2020-a4-sedan-exterior.jpg",
+      "image": "https://www.autoscout24.nl/cms-content-assets/of50RgUFUJU9XuoP5qhJm-a1a83caf7250edd7f91b245046538031-audi-a4-2019-29-2-1100.jpg",
       "beschrijving": "The Audi A4 is a premium sedan known for its elegant design, advanced technology, and smooth ride."
     },
     {
@@ -61,15 +61,15 @@
       "merk": "Mercedes-Benz",
       "model": "C-Class",
       "bouwjaar": 2021,
-      "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my21/c/sedan/class-page/2021-C-SEDAN-GALLERY-001-DR.jpg",
+      "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/mercedes-c-class_0.jpg?itok=Q2OA5WEQ",
       "beschrijving": "The Mercedes-Benz C-Class is a luxury sedan that offers a refined interior, advanced safety features, and powerful performance."
     },
     {
       "id": 9,
       "merk": "Volkswagen",
-      "model": "Golf",
+      "model": "Golf 8 GTE",
       "bouwjaar": 2018,
-      "image": "https://www.vw.com/content/dam/vwcom/brochures/2018/vw-my18-golf-family-brochure.pdf",
+      "image": "https://www.leaseplan.com/-/media/leaseplan-digital/be/business/car-reviews/volkswagen/vw-golf-gte-ehybrid-2022-review/vw-golfgteehybrid-2022-review-1.jpg?rev=-1",
       "beschrijving": "The Volkswagen Golf is a versatile hatchback that offers a comfortable ride, practical interior, and efficient performance."
     },
     {
